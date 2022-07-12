@@ -30,3 +30,23 @@ iframe{
     flex-wrap: wrap;
     gap: 1rem;
 }
+.tbl-1{
+    background-color: #AB46D2;
+}
+.tbl-2{
+    background-color: #FF6FB5;
+}
+.tbl-3{
+    background-color: #55D8C1;
+}
+.tbl-4{
+    background-color: #FCF69C;
+
+}
+.tasks__box-link{
+    font-weight: bold;
+    text-shadow: 1px 1px 2px #000;
+}
+.tasks__box-link:hover{
+color: rgb(218, 207, 250);
+}

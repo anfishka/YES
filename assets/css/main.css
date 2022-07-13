@@ -59,3 +59,11 @@ border: none;
 .navbar-toggler-icon{
 
 }
+.home-img{
+    max-width: 20rem;
+    margin-top: 3rem;
+    margin-right: 10rem;
+}
+.tasks-img{
+    text-align: center;
+}

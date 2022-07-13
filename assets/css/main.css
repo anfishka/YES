@@ -50,3 +50,12 @@ iframe{
 .tasks__box-link:hover{
 color: rgb(218, 207, 250);
 }
+.navbar-toggler{
+text-decoration: none;
+background: transparent;
+border: none;
+
+}
+.navbar-toggler-icon{
+
+}

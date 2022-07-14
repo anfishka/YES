@@ -67,3 +67,13 @@ border: none;
 .tasks-img{
     text-align: center;
 }
+.m{
+background-color: rgb(95, 187, 20);
+}
+.w{
+background-color: rgb(145, 134, 206);
+}
+.reverse{
+    display: flex;
+    
+}

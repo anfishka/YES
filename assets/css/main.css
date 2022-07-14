@@ -75,5 +75,13 @@ background-color: rgb(145, 134, 206);
 }
 .reverse{
     display: flex;
-    
+    flex-direction: row-reverse;
+    margin: 0 auto;
+    justify-content: center;
+    gap: 2rem;
+   
+
+}
+ul{
+     padding: 1rem;
 }
